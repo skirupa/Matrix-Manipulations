@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1613194840 source:c:\users\indian\desktop\work now\projects\matrix_manipulation\main.c
+	<stdio.h>
+	<math.h>
+	<conio.h>
+	<stdlib.h>
+	<time.h>
+
